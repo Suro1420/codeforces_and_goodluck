@@ -1,0 +1,1 @@
+## This repository have no goal or meaning just random practice for algorithm problems
