@@ -7,7 +7,6 @@ using namespace std;
 int main()
 {
 
-    vector<int> x;
     int t;
     cin >> t;
 
